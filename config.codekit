@@ -83,6 +83,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/css\/img\/_prueba1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.8797e+06,
+		"inputAbbreviatedPath": "\/css\/img\/_prueba1.jpg",
+		"outputAbbreviatedPath": "\/css\/img\/_prueba1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/css\/img\/back.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -127,11 +138,22 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/css\/img\/prueba1.jpg": {
+	"\/css\/img\/prueba1 copia.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1.8797e+06,
+		"inputAbbreviatedPath": "\/css\/img\/prueba1 copia.jpg",
+		"outputAbbreviatedPath": "\/css\/img\/prueba1 copia.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/css\/img\/prueba1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 251538,
 		"inputAbbreviatedPath": "\/css\/img\/prueba1.jpg",
 		"outputAbbreviatedPath": "\/css\/img\/prueba1.jpg",
 		"outputPathIsOutsideProject": 0,
